@@ -1,0 +1,132 @@
+.footer-outer{
+    position: relative;
+    top: 90px;
+    left: 25%;
+    width: 50%;
+}
+.fotter-inner{
+    position: relative;
+    width: 100%;   
+}
+.fot-nav{
+    position: relative;
+}
+.fot-about-link{
+    display: inline;
+    position: relative;
+    width: 14%;
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+}
+.fot-pp-link{
+    display: inline;
+    position: relative;
+    width: 22%;
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+    left: 5%;
+}
+.fot-terms-link{
+    display: inline;
+    position: relative;
+    width: 22%;
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+    left: 10%;
+}
+.fot-contact-link{
+    display: inline;
+    position: relative;
+    width: 22%;
+    text-decoration: none;
+    color: #e6e6e6;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+    left: 15%;
+}
+.fot-copyright{
+    position: relative;
+    width: 40%;
+    left: 40%;
+    top: 10px;
+}
+.fot-copyright{
+    position: relative;
+    color: #e6e6e6;
+    font-family: 'Comic Neue', cursive;
+    font-size: 25px;
+    left: 30%;
+}
+@media screen and (max-width: 800px) {
+    .footer-outer{
+        position: relative;
+        top: 60px;
+        left: 10%;
+        width: 85%;
+    }
+    .fotter-inner{
+        position: relative;
+        width: 100%;   
+    }
+    .fot-nav{
+        position: relative;
+    }
+    .fot-about-link{
+        display: inline;
+        position: relative;
+        width: 14%;
+        text-decoration: none;
+        color: #e6e6e6;
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+    }
+    .fot-pp-link{
+        display: inline;
+        position: relative;
+        width: 22%;
+        text-decoration: none;
+        color: #e6e6e6;
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+        left: 15px;
+    }
+    .fot-terms-link{
+        display: inline;
+        position: relative;
+        width: 22%;
+        text-decoration: none;
+        color: #e6e6e6;
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+        left: 30px;
+    }
+    .fot-contact-link{
+        position: relative;
+        width: 22%;
+        text-decoration: none;
+        color: #e6e6e6;
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+        top: 5px;
+        left: 40%;
+    }
+    .fot-copyright{
+        position: relative;
+        display: inline;
+        width: 40%;
+        left: 10%;
+        top: 30px;
+    }
+    .fot-copyright{
+        position: relative;
+        color: #e6e6e6;
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+    }   
+}
